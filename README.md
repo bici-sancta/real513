@@ -10,4 +10,7 @@
 - how to predict sale price ...
 -   zip code, beds, baths, acreage, haversine dist to recently sold, city, neighborhood
 - what units are outliers over priced and under priced
+- ...
 - 
+
+
